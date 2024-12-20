@@ -1,5 +1,5 @@
 <template>
-
+    <div v-if="htmlResponse" v-html="htmlResponse"></div>
     
 </template>
 
@@ -14,9 +14,11 @@
 
 
         async mounted() {
-            fetch('https://uk.tgstat.com/').then(data => {
-                this.htmlResponse = data
-                console.log(this.htmlResponse)
+            fetch('https://uk.tgstat.com/', ).then(data => {
+                return data.text();
+            })
+            .then((html) => {
+                this.htmlResponse = html
             })
         }
     }
