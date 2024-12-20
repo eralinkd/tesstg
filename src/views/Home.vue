@@ -1,6 +1,7 @@
 <template>
     <div v-if="htmlResponse" v-html="htmlResponse"></div>
     
+
 </template>
 
 <script>
@@ -8,7 +9,7 @@
         name: 'Home',
         data() {
             return {
-                htmlResponse: '',
+                htmlResponse: null,
             }
         },
 
