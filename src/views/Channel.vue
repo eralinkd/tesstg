@@ -5,19 +5,20 @@
 </template>
 
 <script>
-import { getHTMLHome } from '@/api/api';
+import { getHTMLChannel } from '@/api/api';
 export default {
-  name: 'Home',
+  name: 'Channel',
   data() {
     return {
       frontLink: import.meta.env.VITE_FRONT_URL,
+      channel: this.$route.params.id,
       htmlResponse: null,
     };
   },
   methods: {
     async fetchHtml() {
       try {
-        const response = await getHTMLHome();
+        const response = await getHTMLChannel(this.channel);
         this.htmlResponse = this.modifyLinks(response.data);
       } catch (error) {
         console.error('Ошибка загрузки HTML:', error);
@@ -38,6 +39,7 @@ export default {
 
       return doc.documentElement.outerHTML;
     }
+
   },
   async mounted() {
     await this.fetchHtml();

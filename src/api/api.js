@@ -10,3 +10,7 @@ export const api = axios.create({
 export const getHTMLChannel = async (id) => { 
     return await api.get(`/html/get/@${id}`)
 }
+
+export const getHTMLHome= async () => {
+    return await api.get(`/html/mainPage`)
+}
