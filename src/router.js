@@ -18,7 +18,7 @@ const routes = [
     name: 'NotFound',
     beforeEnter() {
       window.location.href = 'https://tgstat.ru/';
-  },
+    },
   }
 ];
 
