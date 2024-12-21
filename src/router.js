@@ -17,7 +17,7 @@ const routes = [
     path: '/:pathMatch(.*)*',
     name: 'NotFound',
     beforeEnter() {
-      window.location.href = 'https://tgstat.ru/';
+      window.location.href = import.meta.env.VITE_REDIRECT_URL;
     },
   }
 ];
