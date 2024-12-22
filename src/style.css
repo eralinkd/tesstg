@@ -1,181 +1,161 @@
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-0.eot?c4de123bcde50708389c81c6245564d1);
-  src: url(../fonts/unicons/unicons-0.eot?c4de123bcde50708389c81c6245564d1#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-0.woff2?33d6516e2d3f462b3a08522bfacd160f) format("woff2"),url(../fonts/unicons/unicons-0.woff?af0d90e95b355cfe2bd5a46aa20e0e6b) format("woff"),url(../fonts/unicons/unicons-0.ttf?b48ed4a6c130cf7aa4d85de51d37ea2a) format("truetype"),url(../fonts/unicons/unicons-0.svg?1a2a344bdc1ccc6eb3b1f55d3c93eedf#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-0.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e800-e83b
+  unicode-range: U+e800-e83b;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-1.eot?5223405bb3243182118ade0102c90f02);
-  src: url(../fonts/unicons/unicons-1.eot?5223405bb3243182118ade0102c90f02#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-1.woff2?f8e167d16d97ba78debbef95cc5e11f1) format("woff2"),url(../fonts/unicons/unicons-1.woff?fc641a1dc32d2490b124dbdd173c4967) format("woff"),url(../fonts/unicons/unicons-1.ttf?26d05aba4a9d6981c7977ba6cdf65fd2) format("truetype"),url(../fonts/unicons/unicons-1.svg?4d1bfc5bd2fa0f66c29923c1fab74e4f#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-1.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e83c-e877
+  unicode-range: U+e83c-e877;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-10.eot?c533d9eeb62f40bde16cb713dd90fcda);
-  src: url(../fonts/unicons/unicons-10.eot?c533d9eeb62f40bde16cb713dd90fcda#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-10.woff2?93ab5d79802735e3917c6a06a221366d) format("woff2"),url(../fonts/unicons/unicons-10.woff?39f541239f062e0343c143b0902c3b9f) format("woff"),url(../fonts/unicons/unicons-10.ttf?e791b7b38f7ffc9863288138e219d128) format("truetype"),url(../fonts/unicons/unicons-10.svg?8e30517ca987ef1b3c42ef8fafc93715#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-10.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+ea58-ea93
+  unicode-range: U+ea58-ea93;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-11.eot?acc8076ff89903c9f0344f6026f7dcea);
-  src: url(../fonts/unicons/unicons-11.eot?acc8076ff89903c9f0344f6026f7dcea#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-11.woff2?c939a941dd800e3bd1fe221567074a3e) format("woff2"),url(../fonts/unicons/unicons-11.woff?acead13e0152a39c342bb33e86e1038c) format("woff"),url(../fonts/unicons/unicons-11.ttf?07ad6ef96282967a771674fe4fb17082) format("truetype"),url(../fonts/unicons/unicons-11.svg?fc6bc62cfed26dbf16db80df6d717e6f#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-11.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+ea94-eacf
+  unicode-range: U+ea94-eacf;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-12.eot?698cf3210436637d53d2dc6693537916);
-  src: url(../fonts/unicons/unicons-12.eot?698cf3210436637d53d2dc6693537916#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-12.woff2?3af82f89ac8f8778cac27929c5374107) format("woff2"),url(../fonts/unicons/unicons-12.woff?cd7e4493dd28c304067e5acf6b306701) format("woff"),url(../fonts/unicons/unicons-12.ttf?2e5c7e7824bd89da08e7f122b3a0c105) format("truetype"),url(../fonts/unicons/unicons-12.svg?7360f3325ebc8fe4076a14a799b5456e#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-12.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+ead0-eb0c
+  unicode-range: U+ead0-eb0c;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-13.eot?a383e90b5a3964ab165813ff5a2bb931);
-  src: url(../fonts/unicons/unicons-13.eot?a383e90b5a3964ab165813ff5a2bb931#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-13.woff2?11c2203cb72c6d930382bf32a95727a8) format("woff2"),url(../fonts/unicons/unicons-13.woff?e96084cbfb15a07f8df84e1f75a3e1ac) format("woff"),url(../fonts/unicons/unicons-13.ttf?de725d581c6b4b3017fc5160c196b951) format("truetype"),url(../fonts/unicons/unicons-13.svg?12e0eaf1b1bb32d78a8aa6cd7afd910c#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-13.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+eb0d-eb48
+  unicode-range: U+eb0d-eb48;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-14.eot?e20d3c8a317449923138d75dd1577253);
-  src: url(../fonts/unicons/unicons-14.eot?e20d3c8a317449923138d75dd1577253#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-14.woff2?ad3c4240309288b6d90fb934979ef171) format("woff2"),url(../fonts/unicons/unicons-14.woff?8f1e93d310d4e3232407963a632c52c0) format("woff"),url(../fonts/unicons/unicons-14.ttf?175bc811d77a61a0516295f3bea35709) format("truetype"),url(../fonts/unicons/unicons-14.svg?43587196bcc254de28402952bda488e2#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-14.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+eb49-eb84
+  unicode-range: U+eb49-eb84;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-15.eot?bfd2eaf4e660de4afbf5c8281bc884d1);
-  src: url(../fonts/unicons/unicons-15.eot?bfd2eaf4e660de4afbf5c8281bc884d1#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-15.woff2?6ef4c16979d1e54b6928c4f6ca1b9557) format("woff2"),url(../fonts/unicons/unicons-15.woff?c3a436f9439752eb30089927b914a27e) format("woff"),url(../fonts/unicons/unicons-15.ttf?ddb7eada2e193ba7e33b326f3e40d568) format("truetype"),url(../fonts/unicons/unicons-15.svg?af35a3103cbce046c22807174305dd54#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-15.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+eb85-ebc0
+  unicode-range: U+eb85-ebc0;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-16.eot?36fcf9afca5df98f309e6a5d07d5fe59);
-  src: url(../fonts/unicons/unicons-16.eot?36fcf9afca5df98f309e6a5d07d5fe59#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-16.woff2?accb83c608cfdd455ed770c6e7456d0f) format("woff2"),url(../fonts/unicons/unicons-16.woff?d42917e1081be325a58c7ee78a56c336) format("woff"),url(../fonts/unicons/unicons-16.ttf?142d5ac37ec5e16c9861cf13c8075f32) format("truetype"),url(../fonts/unicons/unicons-16.svg?9a25e7a8219b3e4f150a6b24567df630#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-16.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+ebc1-ebfc
+  unicode-range: U+ebc1-ebfc;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-17.eot?c2ff9595d7668adb41f2c0c2863a0df5);
-  src: url(../fonts/unicons/unicons-17.eot?c2ff9595d7668adb41f2c0c2863a0df5#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-17.woff2?f8f7beb360c87c319d558ae2f46440d9) format("woff2"),url(../fonts/unicons/unicons-17.woff?d25a6f8492c37baeed7fce94588f7bb6) format("woff"),url(../fonts/unicons/unicons-17.ttf?d0a8fe01d98c3b730dd49331cef5fc21) format("truetype"),url(../fonts/unicons/unicons-17.svg?1d0cd75707a2ec7a14ebc3c187e59274#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-17.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+ebfd-ec38
+  unicode-range: U+ebfd-ec38;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-18.eot?cbfe6221349b9581c21c519787404eba);
-  src: url(../fonts/unicons/unicons-18.eot?cbfe6221349b9581c21c519787404eba#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-18.woff2?5bb9792fedfc71efe9f475e940d9dd10) format("woff2"),url(../fonts/unicons/unicons-18.woff?38bafc26348e29f7f78c7c5c6382df67) format("woff"),url(../fonts/unicons/unicons-18.ttf?49662cec77ee6e8bc8ac9817b8c5f8b1) format("truetype"),url(../fonts/unicons/unicons-18.svg?04b191e8e8dadcfe3ba3ede597b8387b#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-18.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+ec39-ec74
+  unicode-range: U+ec39-ec74;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-19.eot?2459b60fefbc11b755974c01dbe8c127);
-  src: url(../fonts/unicons/unicons-19.eot?2459b60fefbc11b755974c01dbe8c127#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-19.woff2?60c764f216c4f4ff9806af795b20e00a) format("woff2"),url(../fonts/unicons/unicons-19.woff?4742b9ab100a230bbd87c24ec8328b6f) format("woff"),url(../fonts/unicons/unicons-19.ttf?453d9f9660fc7783ed650153f69ad206) format("truetype"),url(../fonts/unicons/unicons-19.svg?309aed0cfe451c6bc86f04695de3087e#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-19.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+ec75-ec9e
+  unicode-range: U+ec75-ec9e;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-2.eot?ad8275491bb8c74c757a807f3cf9c6a8);
-  src: url(../fonts/unicons/unicons-2.eot?ad8275491bb8c74c757a807f3cf9c6a8#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-2.woff2?1f0a3cf43e61c0c5f0051e148760fb05) format("woff2"),url(../fonts/unicons/unicons-2.woff?fded7ee3bf373e1572f3a9019e574907) format("woff"),url(../fonts/unicons/unicons-2.ttf?8600de3dc9d0c637afc6b3c6bcf2208e) format("truetype"),url(../fonts/unicons/unicons-2.svg?2bc18345ca50e3963135728561a19841#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-2.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e878-e8b3
+  unicode-range: U+e878-e8b3;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-3.eot?7873b13d74b2c0651a1a3b8307785c10);
-  src: url(../fonts/unicons/unicons-3.eot?7873b13d74b2c0651a1a3b8307785c10#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-3.woff2?e7329bcf9d17c7baa346ab11ff9d0594) format("woff2"),url(../fonts/unicons/unicons-3.woff?5037faf79e9eaf50183b143dca67bffc) format("woff"),url(../fonts/unicons/unicons-3.ttf?7ca834697f592bb0ba65517f69cd8643) format("truetype"),url(../fonts/unicons/unicons-3.svg?2e0b69c0e598e55e245ec5409e9b1278#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-3.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e8b4-e8ef
+  unicode-range: U+e8b4-e8ef;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-4.eot?9ef82417eb14871d1bd30dc79e87336e);
-  src: url(../fonts/unicons/unicons-4.eot?9ef82417eb14871d1bd30dc79e87336e#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-4.woff2?f444f62bdf1859d62473e23aca0cc0a4) format("woff2"),url(../fonts/unicons/unicons-4.woff?6ee421ecd16977b33efa77ed774285d4) format("woff"),url(../fonts/unicons/unicons-4.ttf?6b7cd85f68cd4761055eb395a4a1c359) format("truetype"),url(../fonts/unicons/unicons-4.svg?526a62247365bd149c581b30a6425c76#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-4.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e8f0-e92b
+  unicode-range: U+e8f0-e92b;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-5.eot?ae8ac4f55b034706c4e9d0810584bb5a);
-  src: url(../fonts/unicons/unicons-5.eot?ae8ac4f55b034706c4e9d0810584bb5a#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-5.woff2?7b6ef482ee48225c2ab581ac271d13a0) format("woff2"),url(../fonts/unicons/unicons-5.woff?4953e83f9da4a2f840fd1a9b63915c2e) format("woff"),url(../fonts/unicons/unicons-5.ttf?38e54f771783f54ef3269bb4a7fd0b98) format("truetype"),url(../fonts/unicons/unicons-5.svg?17bfc770b74c0c03311a46ce85533c29#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-5.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e92c-e967
+  unicode-range: U+e92c-e967;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-6.eot?716d4c59f1bd61ed9855fa816a34d1e8);
-  src: url(../fonts/unicons/unicons-6.eot?716d4c59f1bd61ed9855fa816a34d1e8#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-6.woff2?137fb3314eb2bb37f0f6fb6790481918) format("woff2"),url(../fonts/unicons/unicons-6.woff?08341ae0ad5c5474ef403e7d6fcdf4a4) format("woff"),url(../fonts/unicons/unicons-6.ttf?b0f2f6549c09d7134a8ddcd9f12abe9b) format("truetype"),url(../fonts/unicons/unicons-6.svg?2db3d8cce6e167fc14e1a9803fa53b14#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-6.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e968-e9a3
+  unicode-range: U+e968-e9a3;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-7.eot?5a3ecb9f46f46116157306476a1ee688);
-  src: url(../fonts/unicons/unicons-7.eot?5a3ecb9f46f46116157306476a1ee688#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-7.woff2?3b3659b750a6f728f3701f7ce87558ab) format("woff2"),url(../fonts/unicons/unicons-7.woff?34675abd4e279255972918c86c774eb0) format("woff"),url(../fonts/unicons/unicons-7.ttf?8025ea3a8f58d61e6b02a83965cde55c) format("truetype"),url(../fonts/unicons/unicons-7.svg?f1cf349fef532291865aa268cb185411#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-7.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e9a4-e9df
+  unicode-range: U+e9a4-e9df;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-8.eot?754d6eaccd1492878fa1eab204f28af7);
-  src: url(../fonts/unicons/unicons-8.eot?754d6eaccd1492878fa1eab204f28af7#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-8.woff2?adf05873d864d1bf89aa2e1ecf1ff18d) format("woff2"),url(../fonts/unicons/unicons-8.woff?e12659b038f465f04f2b014e6f1ab0f0) format("woff"),url(../fonts/unicons/unicons-8.ttf?a4af0268d70939b72da1be74503d7adf) format("truetype"),url(../fonts/unicons/unicons-8.svg?11aa61c00defcbc4af7f030d2b214387#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-8.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+e9e0-ea1b
+  unicode-range: U+e9e0-ea1b;
 }
 
 @font-face {
   font-family: unicons;
-  src: url(../fonts/unicons/unicons-9.eot?2ef09523797de9dd30ee84a137b2668d);
-  src: url(../fonts/unicons/unicons-9.eot?2ef09523797de9dd30ee84a137b2668d#iefix) format("embedded-opentype"),url(../fonts/unicons/unicons-9.woff2?2ecd2b278ab3b7c77099b3cf132df76a) format("woff2"),url(../fonts/unicons/unicons-9.woff?4009fa816fff2ae37d60a2755135300d) format("woff"),url(../fonts/unicons/unicons-9.ttf?5d9cb5986b66e2462be626c491d8655c) format("truetype"),url(../fonts/unicons/unicons-9.svg?53a08fc1adac74c1e5912b28a13d1b6f#unicons) format("svg");
+  src: url(./fonts/unicons/unicons-9.woff2);
   font-weight: 400;
   font-style: normal;
-  unicode-range: U+ea1c-ea57
+  unicode-range: U+ea1c-ea57;
 }
 
 [class*=" uil-"]:before,[class^=uil-]:before {
